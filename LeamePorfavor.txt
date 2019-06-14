@@ -1,0 +1,2 @@
+Los numeros aleatorios tienen un js compartido, llamado Ale.js
+Los de convertir tienen tambien un js compartido, llamado convert.js
