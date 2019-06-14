@@ -1,0 +1,3 @@
+//impares
+for(var i=56;i>44;i--)
+	
